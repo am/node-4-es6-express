@@ -1,0 +1,16 @@
+{
+  "name": "node-4-es6-express",
+  "version": "0.0.1",
+  "description": "Nodejs >4.0.0 ES6 using express",
+  "main": "bin/www.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "es6"
+  ],
+  "author": "antsmiranda@gmail.com",
+  "license": "ISC"
+}

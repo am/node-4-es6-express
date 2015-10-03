@@ -4,6 +4,7 @@
   "description": "Nodejs >4.0.0 ES6 using express",
   "main": "bin/www.js",
   "scripts": {
+    "start": "node bin/www.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
